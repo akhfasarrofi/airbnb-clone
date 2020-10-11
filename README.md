@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="images/banner.JPG" align="center" height="150"></img>
+    <img src="images/banner.JPG" align="center"></img>
 </p>
 
 <h1 align="center"> AIRBNB Clone 🔥 </h1> 
@@ -11,6 +11,8 @@
 </p>
 
 # Clone dan Gunakan 📋
+
+Untuk melihat aplikasi, **[click here](https://akhfas-airbnb-clone.netlify.app/)**
 
 ✔️ Aplikasi ini sepenuhnya dibangun dengan `react-js` itulah mengapa kita perlu menginstal `nodejs` dan `npm`.
 
