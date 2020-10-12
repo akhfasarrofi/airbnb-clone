@@ -11,17 +11,17 @@
   <a href="https://app.netlify.com/sites/akhfas-airbnb-clone/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/abf59f82-3251-4040-b24c-949b86691642/deploy-status?style=flat-square" /></a>
 </p>
 
-# Clone dan Gunakan 📋
+### Clone dan Gunakan 📋
 
 Untuk melihat aplikasi, **[click here](https://akhfas-airbnb-clone.netlify.app/)**
 
-## Aplikasi ini sepenuhnya dibangun dengan `react-js` itulah mengapa kita perlu menginstal `nodejs` dan `npm`.
+### Aplikasi ini sepenuhnya dibangun dengan `react-js` itulah mengapa kita perlu menginstal `nodejs` dan `npm`.
 
-## Clone repositori ke sistem lokal Anda menggunakan perintah di bawah ini:
+### Clone repositori ke sistem lokal Anda menggunakan perintah di bawah ini:
   - ```python
      ✔️git clone https://github.com/akhfasarrofi/airbnb-clone.git
     ```
   - Ini akan mengcloning seluruh repositori di sistem Anda.
-## Untuk mengunduh dependensi yang diperlukan ke sistem Anda,  jalankan perintah `npm install`
+### Untuk mengunduh dependensi yang diperlukan ke sistem Anda,  jalankan perintah `npm install`
   
-## Gunakan perintah `npm start` untuk menjalankan aplikasi
+### Gunakan perintah `npm start` untuk menjalankan aplikasi
