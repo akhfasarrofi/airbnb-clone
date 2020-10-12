@@ -24,7 +24,7 @@ Untuk melihat aplikasi, **[click here](https://akhfas-airbnb-clone.netlify.app/)
   - Ini akan mengcloning seluruh repositori di sistem Anda.
 ## Untuk mengunduh dependensi yang diperlukan ke sistem Anda, buka direktori tempat repositori yang digandakan  berada dan jalankan perintah berikut:
   - ```python
-    ✔️ npm i @material-ui/core
+    ✔️npm i @material-ui/core
     ✔️npm i @material-ui/icons
     ✔️npm i react-router-dom
     ✔️npm i react-date-range
