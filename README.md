@@ -19,7 +19,7 @@ Untuk melihat aplikasi, **[click here](https://akhfas-airbnb-clone.netlify.app/)
 
 ## Clone repositori ke sistem lokal Anda menggunakan perintah di bawah ini:
   - ```python
-     git clone https://github.com/akhfasarrofi/airbnb-clone.git
+     ✔️git clone https://github.com/akhfasarrofi/airbnb-clone.git
     ```
   - Ini akan mengcloning seluruh repositori di sistem Anda.
 ## Untuk mengunduh dependensi yang diperlukan ke sistem Anda, buka direktori tempat repositori yang digandakan  berada dan jalankan perintah berikut:
